@@ -1,2 +1,1 @@
-i use a lot of react, javascript, python, and all the other basic web stuff.
-working on java, kotlin, typescript at the moment.
+former jazz musician, former philosophy student, former youth orchestra conductor, former preacher, former junior researcher, former teacher, former child, currently on the computer. i use a lot of react, javascript, python, and all the other basic web stuff. working on java, kotlin, typescript at the moment.
