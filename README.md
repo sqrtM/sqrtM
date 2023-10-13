@@ -1,5 +1,5 @@
 former jazz musician, former philosophy student, former youth orchestra conductor, former school administrator, former preacher, former junior researcher, former teacher and teacher trainer, former child, former pedagogical coordinator, currently on the computer. 
 
-lots of php, typescript, react, and all the other basic web stuff. i also play around with livecoding audio-visual languages and their associated environments a lot, like tidalcycles and hydra+three.js. i also use C sometimes to program for weird operating systems.
+lots of php, typescript, and all the other web stuff at the day job. lots of rust and java for my own stuff. sometimes some C to get stuff running on weird operating systems like the PSVita. sometimes some livecoding with pattern languages, like tidalcycles and hydra+three.js.
 
-working mostly on rust + wasm
+just having fun
